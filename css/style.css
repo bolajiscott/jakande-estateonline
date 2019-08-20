@@ -990,3 +990,6 @@ a {
   cursor: -webkit-zoom-in;
   cursor: zoom-in;
   opacity: .5; }
+  .jumbotron{
+    opacity:0.6;
+  }
