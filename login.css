@@ -1,0 +1,14 @@
+body{
+    background-image: url(images/DSC_0657.JPG);
+
+}
+.container{
+    margin-top: 300px;
+    color: green
+}
+h4{
+    color: white;
+}
+.btn btn-success{
+    width: 400px
+}
